@@ -1,0 +1,229 @@
+html::-webkit-scrollbar{
+    display: none;
+}
+body{
+    background-color: #000300;
+    background-repeat: no-repeat;
+    height:100vh;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    background-color: #000300;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px #1d1e27;
+}
+section a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li{
+    margin-left: 24px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    text-transform: capitalize;
+    align-items: center;
+}
+.btn{
+    width: 109px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+}
+main{
+    display: flex;
+}
+.text{
+    width: 700px;
+}
+.social-icons{
+display: flex;
+flex-direction: row;
+gap: 20px;
+}
+.icon{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 20px;
+ height: 10px;
+ /* border: 10px solid; */
+ border-radius: 05px;
+ color: #0098a3;
+ font-size: 20px;
+ text-decoration: none;  
+ margin-top: 20px; 
+}
+button{
+    height: 40px;
+    width: 100px;
+    margin-top: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: #0098a3;
+    color: black;
+    box-shadow: 10px 5px 20px white;
+    transition: none;
+}
+button:hover{
+    background-color: aqua;
+    color: azure;
+    transform: translate(20px,20px);
+}
+.tobi{
+    background-color: #000300;
+    padding-top: 50px;
+    background-repeat: no-repeat;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+.triple{
+    background-color: #000300;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px #1d1e27;
+}
+div a{
+    color: white;
+    text-decoration: none;
+    text-align: right;
+}
+.gan{
+    text-align: center;
+    text-decoration: none;
+    padding-right: 150px;
+}
+.juwon{
+    height: 100px;
+}
+.kore{
+    display: flex;
+    justify-content: right;
+    text-transform: capitalize;
+    align-items: center;
+}
+.ore{
+   padding-left: 400px;
+}
+.oyk{
+    background-color: #181b22;
+    background-repeat: no-repeat;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.la{
+    text-align: center;
+}
+.pro{
+background-color: #0098a3;
+font-size: 30px;
+width: 200px;
+height: 190px;
+transition: 2s ease-in-out;
+border-radius: 15px;
+margin: 100px;
+list-style: none;
+}
+.propp{
+background-color: #0098a3;
+font-size: 30px;
+width: 200px;
+height: 190px;
+transition: 2s ease-in-out;
+border-radius: 15px;
+margin-left: 500px;
+list-style: none;
+}
+.timi{
+    display: flex;
+    justify-content: space-between;
+}
+.fuad{
+    margin-left: 750px;
+    position: relative;bottom: 250px;
+}
+.xnyg{
+    color: white;
+    text-align: center;
+}
+.ajise{
+    background-color: #000300;
+}
+.jubriel{
+    background-color: #000300;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px #1d1e27;
+}
+.stud{
+    color: white;
+}
+.zamani{
+    font-size: larger;
+}
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 500px;
+    margin: 0 auto;
+ }
+ 
+ .contact-form label {
+    font-size: 1.1em;
+ }
+ 
+ .contact-form input, .contact-form textarea {
+    padding: 10px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+ }
+ 
+ .contact-form input:focus, .contact-form textarea:focus {
+    outline: none;
+    /* border: 1px solid #00cccc; */
+ }
+ 
+ .contact-form button {
+    color: white;
+    padding: 10px 20px;
+    background-color: #00aeae;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+ }
+ 
+ .contact-form button:hover {
+    background-color: #a7f8ff;
+ }
+
+
+
+ .dad{
+    color: #000300;
+    width: 500%;
+
+ }
